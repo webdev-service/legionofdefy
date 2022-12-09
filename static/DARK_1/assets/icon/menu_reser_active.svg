@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104.1" height="102.5" viewBox="0 0 104.1 102.5">
+  <g id="menu_reser_active" transform="translate(-12 -12.2)">
+    <g id="그룹_21" data-name="그룹 21">
+      <path id="패스_76" data-name="패스 76" d="M101.7,114.7H26.3A14.3,14.3,0,0,1,12,100.4V36.2A14.276,14.276,0,0,1,26.3,22h75.5a14.3,14.3,0,0,1,14.3,14.3v64.1A14.447,14.447,0,0,1,101.7,114.7ZM26.3,30A6.274,6.274,0,0,0,20,36.3v64.1a6.274,6.274,0,0,0,6.3,6.3h75.5a6.274,6.274,0,0,0,6.3-6.3V36.2a6.274,6.274,0,0,0-6.3-6.3H26.3Z" fill="#efdd0e"/>
+    </g>
+    <path id="패스_77" data-name="패스 77" d="M112,59.9H16a4,4,0,1,1,0-8h96a4,4,0,0,1,0,8Z" fill="#efdd0e"/>
+    <path id="패스_78" data-name="패스 78" d="M41.8,39.6a4.012,4.012,0,0,1-4-4V16.2a4,4,0,0,1,8,0V35.6A4.012,4.012,0,0,1,41.8,39.6Z" fill="#efdd0e"/>
+    <path id="패스_79" data-name="패스 79" d="M84,39.6a4.012,4.012,0,0,1-4-4V16.2a4,4,0,0,1,8,0V35.6A4.012,4.012,0,0,1,84,39.6Z" fill="#efdd0e"/>
+    <circle id="타원_45" data-name="타원 45" cx="4.4" cy="4.4" r="4.4" transform="translate(59.6 67.9)" fill="#efdd0e"/>
+    <circle id="타원_46" data-name="타원 46" cx="4.4" cy="4.4" r="4.4" transform="translate(82.7 67.9)" fill="#efdd0e"/>
+    <circle id="타원_47" data-name="타원 47" cx="4.4" cy="4.4" r="4.4" transform="translate(59.6 87.1)" fill="#efdd0e"/>
+    <circle id="타원_48" data-name="타원 48" cx="4.4" cy="4.4" r="4.4" transform="translate(35 87.1)" fill="#efdd0e"/>
+  </g>
+</svg>
