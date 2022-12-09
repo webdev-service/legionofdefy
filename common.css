@@ -1592,3 +1592,27 @@ footer {
     cursor: pointer;
 }
 .ad-pop .etc span.today {border-right: 0;}
+
+
+
+.lottery-box {
+    display: block;
+    justify-items: center;
+    background-size: 50%;
+    background-position: center;
+    background-image: url(static/DARK_1/assets/img/ent/item_bg_pc.png);
+    background-repeat: no-repeat;
+
+}
+@media only screen and (max-width: 1000px) {
+    .lottery-box {
+        display: block;
+        justify-items: center;
+        background-size: 100%;
+        background-position: center;
+        background-image: url(static/DARK_1/assets/img/ent/item_bg_pc.png);
+        background-repeat: no-repeat;
+        margin-top: 30px;
+    }
+        }
+    
